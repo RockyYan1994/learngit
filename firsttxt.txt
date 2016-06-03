@@ -1,1 +1,2 @@
-I'm learning how to use git now,and i'll try my best to study it and use it!
+I'm learning how to use git now,and i'll try my best to study it and use it!233
+This is a new line
